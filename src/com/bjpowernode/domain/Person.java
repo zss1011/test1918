@@ -12,5 +12,8 @@ public class Person {
 
     private String bran2;
 
+    private String bran1;
+
+
 
 }
