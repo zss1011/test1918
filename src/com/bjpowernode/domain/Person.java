@@ -8,4 +8,7 @@ public class Person {
 
     private String phone;
 
+    private String address;
+
+
 }
